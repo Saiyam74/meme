@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-git clone https://root:kPKZC9bEbLvyjh7RscKs@gitlab.crio.do/COHORT_ME_BUILDOUT_XMEME_ENROLL_1612436694845/${usr}-me_buildout_xmeme
+git clone https://root:1Tow5qss-jsQyEMyDu8x@gitlab.crio.do/COHORT_ME_BUILDOUT_XMEME_ENROLL_1612436694845/${usr}-me_buildout_xmeme
 
 # Install python.
 sudo apt-get -y update; sudo apt install -y python3
